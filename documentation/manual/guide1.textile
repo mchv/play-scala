@@ -41,16 +41,16 @@ bc. $ play install scala
 ~
 ~ play! 1.2, http://www.playframework.org
 ~
-~ Will install scala-0.9
+~ Will install scala-0.9.2
 ~ This module is compatible with: Play 1.2
 ~ Do you want to install this version (y/n)? y
-~ Installing module scala-0.9...
+~ Installing module scala-0.9.2...
 ~
-~ Fetching http://www.playframework.org/modules/scala-0.9.zip
+~ Fetching http://www.playframework.org/modules/scala-0.9.2.zip
 ~ [--------------------------100%-------------------------] 17313.2 KiB/s   
 ~ Unzipping...
 ~
-~ Module scala-0.9 is installed!
+~ Module scala-0.9.2 is installed!
 
 h2. <a>Project creation</a>
 
@@ -82,7 +82,7 @@ bc. # Application dependencies
  
 require:
     - play
-    - play -> scala 0.9
+    - play -> scala 0.9.2
 
 p(note). Because **Play uses UTF-8** as single encoding, it’s very important that all text files hosted in these directories are encoded using this charset. Make sure to configure your text editor accordingly.
 

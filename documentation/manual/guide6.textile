@@ -463,6 +463,6 @@ bc. @(posts:(List[models.Post]),tag:String)()
 </div>
 }
 
-p(note). @posts.length@  does not work in version 0.9.1 of play-scala; you will need to upgrade to the latest version.
+p(note). @posts.length@  does not work in version 0.9.2 of play-scala; you will need to upgrade to the latest version.
 
 p(note). To be continued…

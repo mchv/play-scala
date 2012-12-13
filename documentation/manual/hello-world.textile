@@ -34,11 +34,11 @@ bc. $ play new helloworld --with scala
 ~
 ~ Resolving dependencies using ~/helloworld/conf/dependencies.yml,
 ~
-~ 	play->scala 0.9.1 (from playLocalModules)
+~ 	play->scala 0.9.2 (from playLocalModules)
 ~
 ~ Installing resolved dependencies,
 ~
-~ 	modules/scala-0.9.1 -> ~/play/1.2.2/modules/scala-0.9.1
+~ 	modules/scala-0.9.2 -> ~/play/1.2.2/modules/scala-0.9.2
 ~
 ~ OK, the application is created.
 ~ Start it with : play run helloworld

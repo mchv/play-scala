@@ -25,7 +25,7 @@ bc. # Application dependencies
 require:
     - play
     - play -> scala 0.9
-    - org.scalaquery -> scalaquery_2.8.1 0.9.1:
+    - org.scalaquery -> scalaquery_2.8.1 0.9.2:
         transitive:     false
     
 repositories:
